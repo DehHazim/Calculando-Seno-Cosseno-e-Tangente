@@ -1,2 +1,2 @@
 # Calculando-Seno-Cosseno-e-Tangente
-Este projeto em Python realiza o cálculo das funções trigonométricas (seno, cosseno e tangente) para um ângulo informado pelo usuário. This Python project calculates the trigonometric functions (sine, cosine, and tangent) for an angle provided by the user.
+Este projeto em Python realiza o cálculo das funções trigonométricas (seno, cosseno e tangente) para um ângulo informado pelo usuário. Foi desenvolvido como parte do curso de Python do professor Gustavo Guanabara, no Curso em Vídeo.This Python project calculates the trigonometric functions (sine, cosine, and tangent) for an angle provided by the user. It was developed as part of Professor Gustavo Guanabara's Python course at Curso em Vídeo.
